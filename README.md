@@ -54,4 +54,4 @@ Trabalho realizado por:
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#video_game-jogo-da-forca)<br>
+[⬆ Voltar ao topo](#-e-compra)<br>
