@@ -8,4 +8,5 @@ Um padrão de projeto determina nomes, motivações e expõe soluções voltadas
 # 💡 Inspiração
 Código de exemplo proveniente do trabalho de [Luiz Otávio](https://github.com/luizomf)
 - Playlist sobre padrões de projeto: [Padrões de Projeto (Design Patterns - GoF) - Introdução - Parte 1/45](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
-[⬆ Voltar ao topo](#-padroes-de-projeto)<br>
+
+[⬆ Voltar ao topo](#-padrões-de-projeto)<br>
