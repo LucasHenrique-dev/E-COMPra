@@ -1,21 +1,27 @@
 # 💻🛒 E-COMPra
 
-[Tecnologias usadas]
+## ℹ Tabela de Conteúdos
+- [Descrição do Projeto](#dart-projeto-da-cadeira-de-análise-de-projeto-de-software-20221)
+- [Especificações](#-especificações-do-projeto)
+- [Contribuidores](#man_technologist-contribuidores)
 
 ## :dart: Projeto da cadeira de Análise De Projeto De Software 2022.1
 
-[Descrição breve do projeto]
-
-
-[Imagem do projeto]
-<!-- <img src="imagens-README/visual-jogo/gabrielmpinha-github-io-1024x768desktop-7646be.jpg" alt="imagem do jogo da forca"> -->
-
-[Descrição da imagem]
-<!-- > Um jogo de Browser com a temática de jogo da forca. Trabalho predominantemente funcional feito em Kotlin, juntamente com um tradutor para Java Script. -->
+A E-COMPra é uma rede de vendas e compras de eletrônicos online focada no tipo de interação pessoa-pessoa, prezando pela confiabilidade dos produtos. Nesse contexto, o sistema trabalha com variados produtos do setor de eletrônicos em geral, onde acessibilidade, variedade e garantia são critérios importantíssimos para satisfação, confiança e preferência dos consumidores. Além disso, o E-COMPra tem como objetivo principal conectar compradores e vendedores de forma prática e simples.
 
 ## 📃 Especificações do Projeto
 
-[Diagramas, requisitos, esquemas, etc]
+Especificações incluem:
+- DESCRIÇÃO GERAL DO SISTEMA
+- REQUISITOS FUNCIONAIS
+- REQUISITOS NÃO-FUNCIONAIS
+- MODELO DE CLASSES DE ANÁLISE
+- MODELO DE INTERAÇÃO
+- MODELO DE CLASSES DE PROJETO
+- MODELO DE ARQUITETURA LÓGICA
+- MODELO DE ESTADOS DE OBJETOS
+
+Visualize as especificações do projeto: [Especificações E-COMPra](especificacoes/entraga_final_APS.pdf)
 
 ## :man_technologist: Contribuidores
 
